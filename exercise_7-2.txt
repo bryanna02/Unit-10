@@ -1,0 +1,14 @@
+Exercise 7-2
+
+
+What is the value of c.constructor?
+(a) alert(c.constructor()) = undefined
+(b) alert(c.area()) = 314.1592653589793
+
+List all the own properties of c.
+(a) .radius
+(b) .area
+
+List all the enumerated properties of c.
+(a) .PI
+
