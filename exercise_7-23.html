@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+	  <title>Exercise 7-23</title>
+   </head>
+   <body>
+      <h1>Reverse Text</h1> 
+	  <p>Enter Text: <input type="text" id="reverseStr"/>
+        <input type="button" value="Reverse" onClick="reverse()"/>
+	  </p>
+      <script>
+         function reverse () {
+            var s = document.getElementById("reverseStr").value;
+            var reversed = "";
+            for (var i = s.length - 1; i >= 0; i--) {
+                reversed += s[i];
+            }
+            document.getElementById("reverseStr").value = reversed;
+        };
+	  </script>
+   </body>
+</html>
+
+
