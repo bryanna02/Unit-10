@@ -1,0 +1,31 @@
+Exercise 7-1
+
+Country Properties
+.city
+.timeZone
+.region
+
+Restaurant Properties
+.appetizers
+.entrees
+.drinks
+.desserts
+
+Music Album Properties
+.artist
+.songs
+.songTimes
+.releaseDate
+
+Basketball Team Properties
+.region
+.teamName
+.players
+
+Movie Properties
+.title
+.studio
+.releaseDate
+.rating
+.directors
+.producers
